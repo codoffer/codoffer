@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Raju Singh - aka [Codoffer][website]</h1>
+<h1 align="center">Hi 👋, I'm Raju Singh - aka Codoffer</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/codoffer" target="blank"><img src="https://img.shields.io/twitter/follow/codoffer?logo=twitter&style=for-the-badge" alt="codoffer" /></a> </p>
 
-- 🔭 I’m currently launched new website [FindMyShala.com](https://findmyshala.com)
+- 🔭 I’m currently launched new website : [FindMyShala.com](https://findmyshala.com)
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning : **Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://www.codoffer.com/portfolio.html](https://www.codoffer.com/portfolio.html)
 
-- 💬 Ask me about **PHP, MySQL, React, React Native, Angular, Laravel, Codeignter, Yii2, Ionic**
+- 💬 Ask me about : **PHP, MySQL, React, React Native, Angular, Laravel, Codeignter, Yii2, Ionic**
 
-- 📫 How to reach me **codoffer@gmail.com**
+- 📫 How to reach me : **rajusingh@codoffer.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/raju-rajpurohit/](https://www.linkedin.com/in/raju-rajpurohit/)
+- 📄 Know about my experiences : [https://www.linkedin.com/in/raju-rajpurohit/](https://www.linkedin.com/in/raju-rajpurohit/)
 
-- ⚡ Fun fact **I love Travel and Music**
+- ⚡ Fun fact : **I love Travel and Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@
   <summary>:zap: Top Languages</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codoffer&show_icons=true&locale=en&layout=compact" alt="codoffer" /></p>
 </details>
-
+<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codoffer&show_icons=true&locale=en" alt="codoffer" /></p>
