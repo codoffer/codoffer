@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raju Singh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate Full-Stack developers team from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codoffer&label=Profile%20views&color=0e75b6&style=flat" alt="codoffer" /> </p>
 
@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **codoffer@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/raju-rajpurohit/](https://www.linkedin.com/in/raju-rajpurohit/)
+- 📄 Know about more about us [https://www.linkedin.com/company/codoffer-infotech](https://www.linkedin.com/company/codoffer-infotech)
 
-- ⚡ Fun fact **I love Travel and Music**
+- ⚡ Fun fact **We love Travel, Tech and Music**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://codepen.io/codoffer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codoffer" height="30" width="40" /></a>
 <a href="https://dev.to/codoffer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codoffer" height="30" width="40" /></a>
