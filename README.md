@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently launched new website [FindMyShala.com](https://findmyshala.com)
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://www.codoffer.com/portfolio.html](https://www.codoffer.com/portfolio.html)
 
