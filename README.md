@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate Full-Stack developers team from India</h3>
+<h3 align="center">A Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codoffer&label=Profile%20views&color=0e75b6&style=flat" alt="codoffer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codoffer" target="blank"><img src="https://img.shields.io/twitter/follow/codoffer?logo=twitter&style=for-the-badge" alt="codoffer" /></a> </p>
 
-- 🔭 I’m currently launched new website [FindMyShala.com](https://findmyshala.com)
+- 🔭 I’m currently launched new website [JoyBoxEnterprises.com](https://joyboxenterprises.com)
 
 - 🌱 I’m currently learning **Blockchain**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP, MySQL, React, React Native, Angular**
 
-- 📫 How to reach me **codoffer@gmail.com**
+- 📫 How to reach me **info@codoffer.com**
 
 - 📄 Know about more about us [https://www.linkedin.com/company/codoffer-infotech](https://www.linkedin.com/company/codoffer-infotech)
 
